@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-lambda-powertools/logger": "^1.12.1",
-    "@middy/core": "^4.5.5"
+    "@aws-lambda-powertools/logger": "^2.35.0",
+    "@middy/core": "^7.9.2"
   }
 }
